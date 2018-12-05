@@ -1,0 +1,25 @@
+{
+  "name": "coffeekraken-blade-php",
+  "version": "1.0.0",
+  "description": "Blade PHP engine exposed to javascript using exec-php",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blade",
+    "php",
+    "engine",
+    "js",
+    "coffee",
+    "kraken",
+    "coffeekraken"
+  ],
+  "author": "Olivier Bossel <olivier.bossel@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "exec-php": "0.0.4",
+    "rimraf": "^2.6.2",
+    "tmp": "0.0.33"
+  }
+}
