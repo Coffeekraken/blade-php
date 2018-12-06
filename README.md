@@ -22,7 +22,7 @@ npm install coffeekraken-node-blade-php --save
 
 ```js
 const bladePhp = require('coffeekraken-node-blade-php')
-bladePhp.compile(__dirname, 'my-cool-view', {
+bladePhp(__dirname, 'my-cool-view', {
     hello: 'world'
 }).then((result) => {
     console.log(result)
