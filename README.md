@@ -1,8 +1,6 @@
-![Coffeekraken Carpenter](/.resources/doc-header.jpg)
+# Coffeekraken Blade PHP <img src="/.resources/coffeekraken-logo.jpg" height="25px" />
 
-# Carpenter <img src="/.resources/coffeekraken-logo.jpg" height="25px" />
-
-Powerful tool that provide a nice web interface to display your website styleguide and modules/plugins documentations in one place.
+Blade PHP engine exposed to node using exec-php
 
 ## Table of content
 

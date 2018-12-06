@@ -1,6 +1,6 @@
 {
-    "name": "coffeekraken/blade-php",
-    "description": "Blade PHP engine exposed to javascript using exec-php",
+    "name": "coffeekraken/node-blade-php",
+    "description": "Blade PHP engine exposed to node using exec-php",
     "type": "library",
     "license": "MIT",
     "authors": [

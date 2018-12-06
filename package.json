@@ -1,7 +1,7 @@
 {
-  "name": "coffeekraken-blade-php",
+  "name": "coffeekraken-node-blade-php",
   "version": "1.0.0",
-  "description": "Blade PHP engine exposed to javascript using exec-php",
+  "description": "Blade PHP engine exposed to node using exec-php",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
