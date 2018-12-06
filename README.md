@@ -14,14 +14,14 @@ Blade PHP engine exposed to node using exec-php
 ## Install
 
 ```sh
-npm install coffeekraken-blade-php --save
+npm install coffeekraken-node-blade-php --save
 ```
 
 <a id="readme-usage"></a>
 ## Usage
 
 ```js
-const bladePhp = require('coffeekraken-blade-php')
+const bladePhp = require('coffeekraken-node-blade-php')
 bladePhp.compile(__dirname, 'my-cool-view', {
     hello: 'world'
 }).then((result) => {
