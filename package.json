@@ -15,7 +15,14 @@
     "kraken",
     "coffeekraken"
   ],
-  "author": "Olivier Bossel <olivier.bossel@gmail.com>",
+  "author": "Coffeekraken <hello@coffeekraken.io>",
+  "contributors": [
+    {
+      "name": "Olivier Bossel",
+      "email": "olivier.bossel@gmail.com",
+      "url": "http://olivierbossel.com"
+    }
+  ],
   "license": "MIT",
   "dependencies": {
     "exec-php": "0.0.4",
